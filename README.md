@@ -1,7 +1,3 @@
-Perfect 👍 — I understood your exact format requirement.
-Here is your **MQ-135 Air Quality Monitoring System README** in the same style:
-
----
 
 # 🌫️ MQ-135 Air Quality Monitoring System using Arduino and OLED
 
